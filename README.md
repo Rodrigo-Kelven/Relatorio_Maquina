@@ -33,13 +33,13 @@ Este script é uma amostra clara do poder/força imabtivel que o Linux tem/possu
 ## Para iniciar o script em background
 
 ```bash
-  nohup ./relatorio_uso_maquina.sh &
+  nohup ./relatorio_maquina.sh &
 ```
 
 ## Verificar o Log: O relatório será salvo no arquivo relatorio_uso_maquina.log no diretório home do usuário. Você pode visualizar o log usando:
 
 ```bash
-  cat ~/relatorio_uso_maquina.log
+  cat ~/relatorio_maquina.log
 ```
 # Contribuições
 
