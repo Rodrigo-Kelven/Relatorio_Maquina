@@ -5,8 +5,8 @@ Este script é uma amostra clara do poder/força imabtivel que o Linux tem/possu
 
 ## Funcionalidades & Atualizaçoes
 
-- **Geração de relatórios**: gera relatórios detalhados de simples compreensão.
-- **Execução Automática**: uma vez ativado, ele irá gera relatórios completo a cada 30 minutos, vocẽ pode mudar o tempo de execução caso queira.
+- **Geração de relatórios**: As informações são registradas em um arquivo de log, evitando a abertura de múltiplas janelas de terminal. O relatório agora inclui informações sobre os 10 processos que mais consomem memória e a temperatura da CPU (se o comando sensors estiver disponível).
+- **Execução em Background**: O script pode ser executado em segundo plano, permitindo que você continue usando o terminal para outras tarefas.
 - **Configuração Simples**: Instalação e configuração automatizadas através de um script Bash.
 
 ## Instalação e Execução
