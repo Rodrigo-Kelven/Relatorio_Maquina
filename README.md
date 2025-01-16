@@ -9,6 +9,7 @@ Este script é uma amostra clara do poder/força imabtivel que o Linux tem/possu
 - **Execução em Background**: O script pode ser executado em segundo plano, permitindo que você continue usando o terminal para outras tarefas.
 - **Configuração Simples**: Instalação e configuração automatizadas através de um script Bash.
 
+
 ## Instalação e Execução
 
 ## Clone o repositório
@@ -44,12 +45,6 @@ Este script é uma amostra clara do poder/força imabtivel que o Linux tem/possu
 # Contribuições
 
 Contribuições são bem-vindas! Se você tiver sugestões ou melhorias, sinta-se à vontade para abrir um issue ou enviar um pull request.
-
-## Melhorias
-
-- Ao instalado, ganhe privilegio e execute de forma automática em Background.
-- Implementar melhores práticas de desempenho. 
-- Implementar mais informações no relatorio sem comprometer sua compreensão
 
 
 ## Autores
