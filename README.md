@@ -1,4 +1,5 @@
 # Script de geração de relatorio da máquina
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 
 Este script é uma simples forma de gerar relátorios sobre informações da máquina em Linux, informações como CPU, GPU. Memoria Ram, Disco e etc.
 Este script é uma amostra clara do poder/força imabtivel que o Linux tem/possui, nas mãos de um profissional que o domina, não existe dificuldade, existe prova de talento e dedicação.
